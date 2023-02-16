@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Es una continuación al proyecto inciciado con el nombre Flutter_validacion_formularios que podemos encontrar en https://github.com/xurxobello/Flutter_validacion_formularios
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
